@@ -6,6 +6,8 @@ import android.os.Bundle;
 /**
  * @author Jose Miguerl Toledo Reyes -
  * <a href="mailto:josmeigueltr@ciencias.unam.mx" >josemigueltr@ciencias.unam.mx</a>
+ * @author Ariana de Belen Fernandez Montenegro
+ * <a href="mailto:arianafm@ciencias.unam.mx" >arianafm@ciencias.unam.mx</a>
  */
 public class MainActivity extends AppCompatActivity {
 
